@@ -5,19 +5,29 @@ A Chrome extension for taking and managing notes directly in your browser.
 ## Features
 
 - Create and manage multiple notes
+
 ![image](https://github.com/user-attachments/assets/e418ca66-c862-4575-a9eb-0c4303e83cf4)
 
+
 - Search through your notes
+
 ![image](https://github.com/user-attachments/assets/07cbbb99-fcd3-4ede-b148-4d8e4ddc0f68)
 
+
 - Export notes as text files
+
 ![image](https://github.com/user-attachments/assets/02910107-a259-40b4-adcf-827f614ffd3b)
 
+
 - Auto-saving
+
 ![image](https://github.com/user-attachments/assets/d4ce015c-8db2-47a6-8975-09fda5b53e47)
 
+
 - Sync across devices (using Chrome Storage)
+
 ![image](https://github.com/user-attachments/assets/81f1f9ba-f642-4a90-942f-1e17366142d6)
+
 
 ## Installation
 
