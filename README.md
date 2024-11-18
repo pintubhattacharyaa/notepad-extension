@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chrome Quick Notes Extension
 
 A Chrome extension for taking and managing notes directly in your browser.
@@ -72,3 +73,6 @@ notepad-extension/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
+=======
+# notepad-extension
+>>>>>>> 5d84b50cc5a7e41bd2ee09ac2f5fd114bcc5e986
