@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Quick Notes",
+    "version": "1.0",
+    "description": "A simple notepad extension for taking and organizing notes",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
